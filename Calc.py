@@ -1,6 +1,6 @@
 num1 = float(input('Введіть перше число:'))
 num2 = float(input('Введіть друге число:'))
-operation = input('Ведіть арифметичну дію:')
+operation = input('Ведіть арифметичну дію +, -, *, або /:')
 
 def get_sum(a, b):
     print(a + b)
